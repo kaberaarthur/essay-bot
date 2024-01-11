@@ -1,0 +1,42 @@
+[
+  {
+    "hash_id": "2267f4ddec9c",
+    "user_id": "3483935",
+    "user_role": "4",
+    "question_id": "47567078",
+    "price": 19,
+    "text": "Good day! I'm a proficient tutor, prepared to excel in this assignment. Please assign it to me, and rest assured, I will meet all requirements promptly. Your cooperation is highly appreciated.",
+    "status": "0",
+    "buyer_id": 4
+  },
+  {
+    "hash_id": "2e871eeb241d",
+    "user_id": "3208900",
+    "user_role": "4",
+    "question_id": "47567078",
+    "price": 19,
+    "text": "Greetings! I am a dedicated tutor ready to undertake this assignment. Your trust is valued, and I commit to delivering responses that meet all specifications on time. Thank you for your confidence.",
+    "status": "0",
+    "buyer_id": 9
+  },
+  {
+    "hash_id": "ea238d7abe6c",
+    "user_id": "2838178",
+    "user_role": "4",
+    "question_id": "47567078",
+    "price": 19,
+    "text": "Warm salutations! As an adept tutor, I am prepared to handle this task efficiently. Entrust me with the assignment, and I guarantee timely and satisfactory results. Many thanks.",
+    "status": "0",
+    "buyer_id": 1
+  },
+  {
+    "hash_id": "314ce5ed545a",
+    "user_id": "2979735",
+    "user_role": "4",
+    "question_id": "47567078",
+    "price": 20,
+    "text": "Greetings! I am an adept tutor with a commitment to excellence. If you assign me this task, I guarantee a timely and comprehensive response that meets all your requirements. Thank you for considering my services.",
+    "status": "0",
+    "buyer_id": 1
+  }
+]
